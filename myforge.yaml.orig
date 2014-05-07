@@ -1,2 +1,3 @@
-key: 'abc'
-base_url: 'http://myforge.example.com'
+base_url: 'http://forge.example.com'
+user: 'aaa'
+pass: 'bbb'
