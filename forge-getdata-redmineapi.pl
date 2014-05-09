@@ -12,5 +12,7 @@ my $client = Redmine::API->new(
     , base_url => $conf->get_base_url
     , trace => 1);
 
-#say $client->projects->list->all;
-say dump $client->issues->issue->get(1042);
+#say dump $client->issues->issue->get(11542);
+#say dump $client->queries->list->all;
+say $client->issues->list->all(query_id => '495')->{total_count};
+#say dump $client->issues->get(query_id => '559');
