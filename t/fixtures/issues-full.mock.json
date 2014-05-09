@@ -1,0 +1,4154 @@
+{
+    "issues": [
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T12:15:34Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg", 
+                    "value": "50"
+                }
+            ], 
+            "description": "_Pour en parler en standup mardi_", 
+            "done_ratio": 0, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12816, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-31", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "??? Suivi et exploration pour les ressources num\u00e9riques", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-05-05T09:15:15Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T09:03:02Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "* Lancer localement un script\r\n* 1 screenshot avec toutes les chartes graphiques avant et apr\u00e8s le d\u00e9veloppement\r\n* avoir un r\u00e9sultat analysable (avoir des chiffres)\r\n\r\n* Pouvoir sp\u00e9cifier une url th\u00e8me utilis\u00e9\r\n* Scripter phantomjs pour faire des copies d'\u00e9cran\r\n* Comparer (imagemagic) la page de r\u00e9f\u00e9rence avec la nouvelle\r\n\r\nPlus tard:\r\n* ratio en IC\r\n\r\n", 
+            "done_ratio": 0, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12807, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-31", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": 5.0, 
+            "subject": "1ere brique de d\u00e9veloppement de non r\u00e9gression des chartes graphiques", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-31T09:06:49Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T08:50:05Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "#12131\r\n\r\nV\u00e9rifier que tous les span h2 soient ok et si non, adapter le html des pages:\r\n- accueil\r\n- recherche\r\n- agenda animations\r\n- agenda expositions\r\n- ressources num\u00e9riques\r\n- catalogue\r\n- formations\r\n- mon compte\r\n", 
+            "done_ratio": 0, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12805, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-02-12", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": 3.0, 
+            "subject": "Yonne - Appliquer la charte \u00e0 l'ensemble du site", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-31T08:50:05Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T08:35:06Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Basse"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Moulins"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "* Appeler Emmanuel Henri de Moulins\r\n* Lui pr\u00e9senter\r\n* Faire un article de la page d'accueil et l'accompagner", 
+            "done_ratio": 30, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12803, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-02-07", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": 5.0, 
+            "subject": "OPAC Jeunesse - Html repr\u00e9sentatif moulins", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-31T08:40:08Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 27, 
+                "name": "pbarroca"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "closed_on": "2014-03-26T10:13:32Z", 
+            "created_on": "2014-03-26T07:48:18Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Haut"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Chatenay Malabry"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Sur l'interface d'administration de l'opac de Chatenay, la mod\u00e9ration des suggestions d'achat montre une liste de suggestions dont certaines n'ont pas de lien vers un lecteur (ou le lecteur n'\u00e9tait pas identifi\u00e9, ce qui ne devrait pas \u00eatre possible). Comment peut on r\u00e9tablir ce lien ? Ou dans le cas de suggestions faites par des lecteurs non identifi\u00e9s, interdire cette fonction ?\r\n\r\nDemande de d\u00e9veloppement :\r\nPouvoir interdire ou non les suggestions des lecteurs non identifi\u00e9s.", 
+            "done_ratio": 20, 
+            "id": 12715, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-26", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "[Chatenay] : suggestion d'achat Opac sans lien vers lecteur.", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-26T10:21:06Z"
+        }, 
+        {
+            "author": {
+                "id": 27, 
+                "name": "pbarroca"
+            }, 
+            "created_on": "2014-03-21T09:38:11Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Dixit alelache dans #12601\r\n<pre>\r\nIl faudrait je pense \r\n1. Stocker dans un log les erreurs de communication avec le webservice sigb\r\n2. En cas d'\u00e9chec de connexion au ws ne pas afficher disponibilit\u00e9 \"inconnue\" mais la disponibilit\u00e9 stock\u00e9e dans la base de l'opac. Ceci sera \u00e9galement utile pour tous les sites qui \u00e9teignent leur serveur sigb la nuit.\r\n3. Si la dispo donn\u00e9e par le ws est diff\u00e9rente de celle stock\u00e9e en base, mettre \u00e0 jour en base\r\n</pre>", 
+            "done_ratio": 0, 
+            "id": 12624, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-21", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Webservice SIGB derni\u00e8re disponibilit\u00e9 connue des exemplaires", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-21T09:43:40Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 60, 
+                "name": "anavilloz"
+            }, 
+            "author": {
+                "id": 60, 
+                "name": "anavilloz"
+            }, 
+            "created_on": "2014-03-19T15:13:47Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "FIEP - Mme Poirel"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Dans l'article d'un p\u00e9riodique,afficher le(s) auteur(s) avant la pagination. ", 
+            "done_ratio": 0, 
+            "id": 12591, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-19", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Articles de p\u00e9riodiques", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-19T15:59:50Z"
+        }, 
+        {
+            "author": {
+                "id": 60, 
+                "name": "anavilloz"
+            }, 
+            "created_on": "2014-03-18T15:29:09Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Can\u00e9jan et Talence"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Il semble que la mise en place du domaine avec vignette dans les profils pose probl\u00e8me car ce dernier faire dispara\u00eetre une des divisions existantes.....", 
+            "done_ratio": 0, 
+            "id": 12577, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-18", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "Vignette domaine", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-18T15:29:09Z"
+        }, 
+        {
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "created_on": "2014-03-12T15:44:33Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": "12"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "St Omer"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Pr\u00e9venir SRC pour factu", 
+            "done_ratio": 0, 
+            "id": 12521, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-12", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Cyberlibris (SSO + int\u00e9gration)", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-20T11:00:35Z"
+        }, 
+        {
+            "author": {
+                "id": 207, 
+                "name": "gloas"
+            }, 
+            "created_on": "2014-03-06T16:43:00Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Haut Berry"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "deux choses pour notre module de stat, \r\n\r\n1) il faudrait renommer le filtre actuel \"abonn\u00e9 actif\" en \" abonnement en cours de validit\u00e9\" ou \"abonnement valide\" \r\n\r\n2) il faudrait mettre en place une requ\u00eate en dur, permettant de calculer le nombre d'abonn\u00e9 actif \"r\u00e9el\" (c-a-d, ayant fait au moin un emprunt sur la p\u00e9riode) donn\u00e9e pour tous les clients avec simplement la possibilit\u00e9 de changer l'ann\u00e9e en question interactive.\r\n\r\n", 
+            "done_ratio": 20, 
+            "id": 12451, 
+            "priority": {
+                "id": 5, 
+                "name": "Haut"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-06", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Statistique : filtre abonn\u00e9 actif ", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-06T16:43:00Z"
+        }, 
+        {
+            "author": {
+                "id": 27, 
+                "name": "pbarroca"
+            }, 
+            "created_on": "2014-03-06T08:21:59Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "AL: Suite demande de monsieur Hochet, il faudrait tester 2 pistes : 1. Rechercher dans ALPHA TITRE (en recherche simple comme avanc\u00e9e) 2. Ne pas supprimer les mots vides de \"Titres\"\r\n\r\n\r\nBonjour \u00e0 tous,\r\nLorsque nous faisons une recherche par titre sur le portail AFI, les mots g\u00e9n\u00e9riques sont exclus,\r\npar exemple chez nous le DVD \"Comme des fr\u00e8res\" est pour ainsi dire introuvable car \"comme\" et \"des\" ne sont pas pris en compte. Cons\u00e9quence la recherche porte sur \"fr\u00e8res\" et les r\u00e9sultats sont \u00e9normes et inutilisables.\r\nJe comprend que ce filtre g\u00e9n\u00e9rique s'applique sur une recherche \"TOUS\" mais pour une recherche \"TITRE\" cela me semble totalement inenvisageable sachant que les abonn\u00e9s utilisent majoritairement ce type de recherche.\r\nJ'ai soumis le probl\u00e8me au support qui me r\u00e9pond que ce probl\u00e8me est connu mais ne fait pas partie des priorit\u00e9s actuelles.\r\nJe ne sais pas ce que vous en pensez mais nous concernant c'est un probl\u00e8me important car le recherche documentaire reste la fonction N\u00b01 d'un portail... documentaire...\r\nEn fonction de vos r\u00e9ponses et priorit\u00e9s respectives nous pourrons soumettre \u00e0 AFI une \u00e9ventuelle demande de modification de ces priorit\u00e9s.\r\nBien cordialement,\r\n\r\nNicolas Hochet\r\nM\u00e9diath\u00e8ques CASA", 
+            "done_ratio": 0, 
+            "id": 12423, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-04", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "CASA: La recherche sur titre exacte ne fonctionne pas bien", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-06T08:21:59Z"
+        }, 
+        {
+            "author": {
+                "id": 31, 
+                "name": "mchandelier"
+            }, 
+            "created_on": "2014-03-04T16:21:46Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "http://web.afi-sa.net/etalon.pergame.net \r\n\r\n+ fichier descriptif en pj", 
+            "done_ratio": 0, 
+            "id": 12398, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-04", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Description du portail pour les petites structures", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-06T11:54:25Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 207, 
+                "name": "gloas"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "category": {
+                "id": 9, 
+                "name": "CMS"
+            }, 
+            "created_on": "2014-03-03T12:06:08Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Madeleine"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "modifier le libell\u00e9 'R\u00e9server un poste Webkiosk' par 'R\u00e9server un ordinateur' dans l'option 'compte' pour un utilisateur dans le portail ( une fois authentifier )", 
+            "done_ratio": 0, 
+            "id": 12363, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-03", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "Modifier le libell\u00e9 de r\u00e9servation d'un poste multim\u00e9dia (Webkiosk)", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T14:00:35Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 207, 
+                "name": "gloas"
+            }, 
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "category": {
+                "id": 11, 
+                "name": "Catalogue"
+            }, 
+            "created_on": "2014-02-11T09:38:31Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": "06"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "A la mani\u00e8re de google ads, ou d'amazon, on veut pouvoir mettre en avant des ressources de fa\u00e7on al\u00e9atoire dans une boite en haut du r\u00e9sultat de recherche. (Comme affichage CVS)\r\n\r\nDans le param\u00e9trage du r\u00e9sultat de recherche: \r\nAjouter un bloc \"Mise en avant\".\r\nTitre\r\nNotices : CVS, Domaine, Set OAI.\r\nNb de r\u00e9sultats par page : X\r\nLimiter \u00e0 X r\u00e9sultats\r\n\r\nSi on selectionne CVS, le bloc affiche les notices retourn\u00e9es par la recherche dans CVS, \r\nSI on selectionne un set OAI (Pour Plaine centrale), le bloc affiche les r\u00e9sultats issus d'une la recherche dans ce set OAI (pr\u00e9alablement aspir\u00e9)\r\nSi on s\u00e9l\u00e9ctionne 'Domaine\", le bloc affiche les r\u00e9sultats qui sont \u00e0 l'intersection entre la recherche courante et le domaine.\r\n\r\nCela permet de mettre en avant de fa\u00e7on al\u00e9atoire des nouveaut\u00e9s, les coups de coeurs, le fonds local parmi les r\u00e9sultats de recherche.\r\n\r\n\r\n", 
+            "done_ratio": 0, 
+            "id": 12114, 
+            "priority": {
+                "id": 5, 
+                "name": "Haut"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-02-11", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Mettre en avant les r\u00e9sultats qui appartiennent \u00e0 un domaine dans une boite.", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T14:00:34Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "category": {
+                "id": 11, 
+                "name": "Catalogue"
+            }, 
+            "created_on": "2014-02-07T09:13:53Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Montrouge"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Effectivement, lorsque les lecteurs consultent l'Opac depuis la biblioth\u00e8que il est fastidieux de devoir cliquer sur la notice d\u00e9taill\u00e9e pour conna\u00eetre sa disponibilit\u00e9. Il faudrait pouvoir afficher cette info sur la page de r\u00e9sultats.", 
+            "done_ratio": 0, 
+            "id": 12085, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-02-07", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "Disponibilit\u00e9 des documents : pouvoir visualiser cette information depuis la liste de r\u00e9sultat.", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T14:00:33Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "category": {
+                "id": 84, 
+                "name": "Sitoth\u00e8que"
+            }, 
+            "created_on": "2013-12-18T09:00:19Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Montrouge"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Tout les menus le permettent par le biais de fl\u00e8ches, il faudrait permettre un ordonnancement des sitoth\u00e8ques et Fils RSS.", 
+            "done_ratio": 0, 
+            "fixed_version": {
+                "id": 375, 
+                "name": "A planifier"
+            }, 
+            "id": 11542, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-12-18", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Sitoth\u00e8que : pouvoir organiser l'ordre des dossiers/sous dossiers/Sites", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-02-03T16:53:38Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "created_on": "2013-11-29T09:38:47Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Haut"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Montrouge"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "LE module poste multim\u00e9dia ne fonctionne pas sur l'Opac de Montrouge. Rien n'est visible, alors que le module est dispo sur le profil Adulte.\r\n", 
+            "done_ratio": 0, 
+            "id": 11297, 
+            "priority": {
+                "id": 5, 
+                "name": "Haut"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-11-29", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "OPAC gestion de r\u00e9servations des postes avec Webkiosk", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-23T20:10:54Z"
+        }, 
+        {
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "created_on": "2013-10-29T15:06:53Z", 
+            "custom_fields": [
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2013-11"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": "3600"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }
+            ], 
+            "description": "", 
+            "done_ratio": 100, 
+            "id": 11003, 
+            "priority": {
+                "id": 5, 
+                "name": "Haut"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-06-24", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "Maze : bloquage paiement", 
+            "tracker": {
+                "id": 10, 
+                "name": "Phase contractuelle"
+            }, 
+            "updated_on": "2013-12-24T09:42:27Z"
+        }, 
+        {
+            "author": {
+                "id": 1, 
+                "name": "admin"
+            }, 
+            "created_on": "2013-10-24T14:26:20Z", 
+            "custom_fields": [
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": "VSR"
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2013-11"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": "6750"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "CASA"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }
+            ], 
+            "description": "Reste 30 %\r\nPoints bloquants ?\r\nLDAP, CAS, SSO\r\nCharte\r\nR\u00e9servation postes publics depuis portail", 
+            "done_ratio": 0, 
+            "due_date": "2013-11-15", 
+            "id": 10941, 
+            "priority": {
+                "id": 5, 
+                "name": "Haut"
+            }, 
+            "project": {
+                "id": 194, 
+                "name": "CASA Antibes"
+            }, 
+            "start_date": "2013-10-24", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "VSR Phase 2", 
+            "tracker": {
+                "id": 10, 
+                "name": "Phase contractuelle"
+            }, 
+            "updated_on": "2013-10-24T14:26:20Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:47:34Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. Projet non d\u00e9but\u00e9", 
+            "done_ratio": 0, 
+            "id": 10878, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Semur en Auxois", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:56Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:46:30Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. ", 
+            "done_ratio": 0, 
+            "id": 10876, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Voiron", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:55Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:46:00Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. AFI doit proposer 3 maquettes graphiques. Projet bloqu\u00e9 car litige avec service communication de la ville", 
+            "done_ratio": 0, 
+            "id": 10875, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Neuilly sur Marne", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:54Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:42:49Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. Le projet Portail est d\u00e9cal\u00e9 \u00e0 2014", 
+            "done_ratio": 0, 
+            "id": 10872, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Communay", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:54Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:41:56Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements", 
+            "done_ratio": 0, 
+            "id": 10871, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Cluses", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:53Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:41:21Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements, aucune d\u00e9marche effectu\u00e9e \u00e0 ce jour", 
+            "done_ratio": 0, 
+            "id": 10870, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Bresle Maritime", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:52Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:40:10Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements, AFI doit proposer les maquettes graphiques.\r\n\r\nCH indique que cette phase ne pourra d\u00e9buter avant d\u00e9cembre", 
+            "done_ratio": 0, 
+            "id": 10869, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique CC Carembault", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:51Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:38:57Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. Client non relanc\u00e9", 
+            "done_ratio": 0, 
+            "id": 10868, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Allonnes", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:51Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:38:19Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-04"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-18"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. Client non relanc\u00e9", 
+            "done_ratio": 0, 
+            "id": 10867, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Podensac", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:40:50Z"
+        }, 
+        {
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "created_on": "2013-10-18T14:44:01Z", 
+            "custom_fields": [
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": "VSR"
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2013-11"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": "8750"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "CASA"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2013-11-29"
+                }
+            ], 
+            "description": "Int\u00e9gration BIblioth\u00e8que num\u00e9rique\r\nLivraison AFI Multimedia\r\nEcoute Sonore", 
+            "done_ratio": 0, 
+            "id": 10821, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-18", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "CASA Ecoute sonore, stats, bib num", 
+            "tracker": {
+                "id": 10, 
+                "name": "Phase contractuelle"
+            }, 
+            "updated_on": "2014-03-23T20:12:49Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "created_on": "2013-05-29T14:30:08Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "L'acc\u00e8s au site est momentan\u00e9ment bloqu\u00e9.\r\n\r\nVeuillez essayez plus tard.\r\n\r\n! ESSAYER !\r\nA corriger, on travaille avec des biblioth\u00e9caires. vous voulez la guerre ???\r\n\r\n;-)\r\n", 
+            "done_ratio": 0, 
+            "id": 9366, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-05-29", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "Grosse faute : Message d'indisponibilit\u00e9", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T13:55:46Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "category": {
+                "id": 28, 
+                "name": "Compte Lecteur"
+            }, 
+            "created_on": "2013-05-21T14:49:50Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Meylan"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Visualiser le site de retrait dans l'interface des r\u00e9servations du compte lecteur.\r\nAjouter la colonne : site de retrait.", 
+            "done_ratio": 0, 
+            "id": 9224, 
+            "priority": {
+                "id": 5, 
+                "name": "Haut"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-05-21", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Afficher le site de retrait dans l'interface des r\u00e9servations du compte lecteur.", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T14:00:33Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 28, 
+                "name": "Compte Lecteur"
+            }, 
+            "created_on": "2013-04-05T15:36:38Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "La Madeleine"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Command\u00e9 par la madeleine.\r\nPr\u00e9voir la possibilit\u00e9 pour un abonn\u00e9s de payer diff\u00e9rents services en ligne.\r\n\r\nEt voir impact dans la r\u00e9gie de Nanook donc \u00e9volution des web services \u00e0 pr\u00e9voir", 
+            "done_ratio": 0, 
+            "id": 8826, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-04-05", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Int\u00e9gration d'un terminal de paiement en ligne", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T13:55:46Z"
+        }, 
+        {
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 11, 
+                "name": "Catalogue"
+            }, 
+            "created_on": "2012-03-14T10:32:20Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase"
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Pontault"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Pontault : rajouter la langue d'origine dans la fabrication de catalogue dynamique", 
+            "done_ratio": 0, 
+            "id": 4483, 
+            "priority": {
+                "id": 3, 
+                "name": "Bas"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2012-03-14", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Pontault : rajouter la langue d'origine dans la fabrication de catalogue dynamique", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T09:43:01Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 31, 
+                "name": "mchandelier"
+            }, 
+            "category": {
+                "id": 11, 
+                "name": "Catalogue"
+            }, 
+            "created_on": "2011-11-28T10:35:54Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "plaisance du touch"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "A partir de la notice d\u00e9taill\u00e9e, on peut cliquer sur un genre et avoir toutes les notices li\u00e9es \u00e0 ce genre.\r\nProc\u00e9der de m\u00eame avec la collection.\r\n", 
+            "done_ratio": 0, 
+            "id": 3040, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2011-11-28", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "Rendre la collection cliquable comme le genre dans la notice d\u00e9taill\u00e9e", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T14:00:32Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 92, 
+                "name": "efalcy"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 48, 
+                "name": "Avis"
+            }, 
+            "created_on": "2011-06-06T06:50:16Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Basse"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "voir s'il est possible d'int\u00e9grer les avis du site suivant : http://www.senscritique.com/livres en enrichissement de notices\r\n", 
+            "done_ratio": 0, 
+            "id": 1572, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2011-06-06", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Am\u00e9lioration de l'enrichissement des avis [senscritique]", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T13:55:45Z"
+        }, 
+        {
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "category": {
+                "id": 12, 
+                "name": "Serveur de cache"
+            }, 
+            "created_on": "2010-12-30T15:53:09Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Basse"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase"
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Moulins"
+                }, 
+                {
+                    "id": 16, 
+                    "name": "Jours"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }
+            ], 
+            "description": "Pour l'indexation cosmogramme.", 
+            "done_ratio": 80, 
+            "estimated_hours": 30.0, 
+            "id": 212, 
+            "priority": {
+                "id": 6, 
+                "name": "Urgent"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "subject": "Moulins : Gestion des renvois d'autorit\u00e9 dans le serveur de cache", 
+            "tracker": {
+                "id": 5, 
+                "name": "Installation"
+            }, 
+            "updated_on": "2014-03-25T09:42:58Z"
+        }, 
+        {
+            "author": {
+                "id": 27, 
+                "name": "pbarroca"
+            }, 
+            "created_on": "2010-11-25T09:10:25Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase"
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }
+            ], 
+            "description": "Extend a SPL ArrayObject to permit batch model properties setting and model saving", 
+            "done_ratio": 0, 
+            "id": 19, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 55, 
+                "name": "STORM"
+            }, 
+            "start_date": "2010-11-25", 
+            "status": {
+                "id": 1, 
+                "name": "A qualifier"
+            }, 
+            "story_points": null, 
+            "subject": "Create a collection object", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2010-11-25T09:10:25Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T09:12:32Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-11"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg", 
+                    "value": "50"
+                }
+            ], 
+            "description": "Voir Maquette en PJ\r\n\r\n- Attention Menu Explorer d\u00e9cale le contenu vers le bas et fait appara\u00eetre le bandeau dans toute sa hauteur.\r\nLe menu horizontal est en position fixe\r\nQuand on scrolle, il se colle en haut \u00e0 la barre de navigation\r\nLe gars au banjo, c'est la banni\u00e8re.\r\n\r\nMaquette Accueil valid\u00e9e par le client : https://drive.google.com/a/afi-sa.fr/file/d/0BxqelnrPXaXoVFRlSG9kaEtsS1p0S1U4b2wyWTN4TUd4VmJj/edit?usp=sharing\r\n\r\nMaquette acceuil avec menu d\u00e9pli\u00e9 : https://drive.google.com/a/afi-sa.fr/file/d/0BxqelnrPXaXoc084ZVhMdXNkTnZUUlZBNm1fMDZGZ1FwaThR/edit?usp=sharing\r\n\r\nDoit \u00eatre ok sur navigateur r\u00e9cent html 5 (fiorefox / chrome r\u00e9cents). Pas ie8 sera au prochain sprint si besoin.", 
+            "done_ratio": 10, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12810, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-20", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": 5.0, 
+            "subject": "(bonus) Int\u00e9gration Graphique Valence - interactions", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-05-05T09:15:15Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T09:11:26Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-04-11"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg", 
+                    "value": "51"
+                }
+            ], 
+            "description": "Voir Maquette en PJ\r\n\r\n- Attention Menu Explorer d\u00e9cale le contenu vers le bas et fait appara\u00eetre le bandeau dans toute sa hauteur.\r\n\r\n- Attention \u00e0 la carte\r\n\r\n- Attention \u00e0 la page AGENDA\r\n\r\nMaquette Accueil valid\u00e9e par le client : https://drive.google.com/a/afi-sa.fr/file/d/0BxqelnrPXaXoVFRlSG9kaEtsS1p0S1U4b2wyWTN4TUd4VmJj/edit?usp=sharing\r\n\r\nMaquette acceuil avec menu d\u00e9pli\u00e9 : https://drive.google.com/a/afi-sa.fr/file/d/0BxqelnrPXaXoc084ZVhMdXNkTnZUUlZBNm1fMDZGZ1FwaThR/edit?usp=sharing\r\n\r\n=> V\u00e9rifier que la page de notice est coh\u00e9rente ainsi que la page de recherche", 
+            "done_ratio": 10, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12809, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-20", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": 8.0, 
+            "subject": "Int\u00e9gration Graphique Valence - font & couleurs sur l'accueil hors interactions", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-05-05T09:39:49Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T09:06:03Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-03-31"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg", 
+                    "value": "51"
+                }
+            ], 
+            "description": "<H1>Titre</br>Auteur</H1>\r\n\r\n<H2>titre de bloc</H2> et se comporter comme un lien a, a:visited, a:hover\r\n\r\n<H2>Titre d'onglet</H2> et se comporter comme un lien a, a:visited, a:hover\r\n\r\n<H3>td.notice_info_titre</H3>\r\n\r\nEviter les tableaux dans les onglets (sauf si impos\u00e9 par WS)\r\n\r\n\r\n\r\nEstim \"avec outil\" => 2\r\nEstim \"sans outil\" => 8", 
+            "done_ratio": 10, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12808, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-26", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": 2.0, 
+            "subject": "Modification affichage Notice : Vers une nouvelle structure HTML", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-05-05T09:39:47Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-28T13:26:03Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "", 
+            "done_ratio": 10, 
+            "estimated_hours": 4.0, 
+            "id": 12789, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-28", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": 3.0, 
+            "subject": "En tant que <>... test", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-31T09:07:22Z"
+        }, 
+        {
+            "author": {
+                "id": 265, 
+                "name": "lrault"
+            }, 
+            "created_on": "2014-03-25T10:05:58Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": "2014-06-02"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg", 
+                    "value": "50"
+                }
+            ], 
+            "description": "Autocompl\u00e9tion dans la recherche simple.\r\n\r\nS'inspirer de la suggestion : \r\nhttp://www.bibliotheques.cergypontoise.fr/s/search.php?all_institutions=&auto_complete_all=&lookfor=potter&type=all#\r\n\r\nLa suggestion doit fonctionner en mode \"contient\" et pas 'commence par'\r\nIl faut suggerer parmi les listes suivantes:\r\nOeuvre  (Titre de auteur)  (exemple Harry Potter et le prince de sang m\u00e9l\u00e9 de J.K.Rowling)\r\nAuteur (exemple J.K. Rowling)\r\nSujet (Libell\u00e9 Dewey, PCDM4, Centre d'interet)\r\n\r\nLa suggestion doit \u00eatre insensible \u00e0 la casse et aux caract\u00e8res diacritiques.\r\n\r\n\r\nSi je tape Harry Row\r\nIl me sugg\u00e8re tous les harry potter de rowling sous la forme\r\nHarry Potter (1): Harry Potter \u00e0 l'\u00e9cole des sorciers de J.K Rowling\r\n\r\n(Une seule suggestion par oeuvre)", 
+            "done_ratio": 10, 
+            "fixed_version": {
+                "id": 548, 
+                "name": "Prochain sprint"
+            }, 
+            "id": 12691, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-25", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": null, 
+            "subject": "Autocompl\u00e9tion dans la recherche simple", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-05-05T09:15:14Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 207, 
+                "name": "gloas"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "category": {
+                "id": 11, 
+                "name": "Catalogue"
+            }, 
+            "created_on": "2014-03-12T06:38:51Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Pontault"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Sur la recherche avanc\u00e9e lorsqu'on visualise la liste des types de documents on tombe sur une liste dont certains types n'ont pas de documents rattach\u00e9s. En fonction des structures ce nombre est plus ou moins important.\r\nProposition :\r\nDans l'admin, il existe maintenant un menu Type doc, est-il possible dans cette interface d'ajouter la visibilit\u00e9 \u00e0 la recherche avanc\u00e9e et au catalogue par une case \u00e0 cocher sur chaque type ?\r\n", 
+            "done_ratio": 10, 
+            "id": 12516, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-12", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "subject": "Recherche avanc\u00e9e : param\u00e9trage de l'affichage des types doc", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T14:03:36Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 29, 
+                "name": "jgaimard"
+            }, 
+            "author": {
+                "id": 115, 
+                "name": "cheurteux"
+            }, 
+            "category": {
+                "id": 11, 
+                "name": "Catalogue"
+            }, 
+            "created_on": "2014-03-03T15:32:42Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Urgente"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Pontault"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Par exemple, si je modifie le r\u00e9sum\u00e9 d'une notice biblio dans Nanook, cette modification ne sera visible dans le portail que si on vide la base Opac et qu'on effectue un export total.\r\n\r\nN'est-il pas possible de faire en sorte que la notice soit mise \u00e0 jour sans avoir \u00e0 effectuer ces op\u00e9rations ?\r\n\r\nTest effectu\u00e9 :\r\n*je modifie un r\u00e9sum\u00e9 d'une notice existante, le cosmogramme g\u00e9n\u00e8re un second $a dans la zone 330 (il n\u2019appara\u00eet pas \u00e0 l'opac le second $a), si j'ajoute un auteur suppl\u00e9mentaire (701 ou 702), la notice unimarc dans le cosmogramme ne contient que l'auteur initial. Le nouvel auteur n'appara\u00eet pas, donc encore moins sur l'opac. En gros, il n'y a que les modifications sur les exemplaires qui sont g\u00e9r\u00e9es correctement.*\r\n\r\nQuid des notices moissonn\u00e9es ? Comment vont-elles appara\u00eetre ? Faudra-t-il refaire un export total \u00e0 chaque fois ?\r\n\r\nIl semble urgent de r\u00e9soudre ce probl\u00e8me car le moissonneur va vite nous cr\u00e9er un nombre important d'appels que l'on pourrait \u00e9viter.", 
+            "done_ratio": 10, 
+            "fixed_version": {
+                "id": 548, 
+                "name": "Prochain sprint"
+            }, 
+            "id": 12370, 
+            "priority": {
+                "id": 6, 
+                "name": "Urgent"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-03", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "subject": "Modification d'une notice biblio : pas de changement sur l'opac", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T14:10:20Z"
+        }, 
+        {
+            "author": {
+                "id": 27, 
+                "name": "pbarroca"
+            }, 
+            "closed_on": "2014-03-04T15:57:35Z", 
+            "created_on": "2014-02-26T07:56:04Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Camelia55"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Nous somme abonn\u00e9s aux contenus de Bab\u00e9lio qui viennent enrichir le catalogue de camelia55.\r\n\r\nDes podcasts audio sont d\u00e9sormais disponibles ; peux-tu les int\u00e9grer \u00e0 notre portail ?\r\n\r\nIl faut apparemment \u00ab coller le div suivant l\u00e0 o\u00f9 vous souhaitez que cela apparaisse dans la notice : <div id=\"BW_podcasts\"></div>.\r\n\r\nPour toute question technique, tu peux joindre Pierre Fremaux que je mets en copie.\r\n\r\nTu trouveras ci-dessous un exemple d'int\u00e9gration sur le catalogue de Toulouse\r\n\r\nFais-moi signe une fois que c'est en place ; il me faudra sans doute modifier l'affichage des notices.\r\n\r\nD'avance merci,\r\n\r\nBien cordialement,\r\nGridel\r\n \r\n\r\n\r\nBonjour,\r\n\r\n \r\n\r\nJe vous envoie un exemple d'int\u00e9gration des podcasts Babelth\u00e8que, \u00e0 la biblioth\u00e8que de Toulouse (sous la zone exemplaires).  \r\n\r\nhttp://catalogues.toulouse.fr/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BMT1&servers=1home&query=01-0178868&screen=hitlist.html\r\n\r\n \r\n\r\nLe responsable des autres comptes AFI est en cong\u00e9, je serai plus tard en mesure de vous informer si des clients AFI ont effectivement install\u00e9 les podcasts,\r\n\r\n \r\n\r\nBien \u00e0 vous\r\n\r\n \r\n\r\nPierre\r\n\r\n-- \r\nFremaux Pierre\r\nMobile : 06 63 01 56 05\r\n\r\n ", 
+            "done_ratio": 10, 
+            "id": 12298, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-02-19", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": null, 
+            "subject": "Camelia55 : demande d'am\u00e9lioration Babelio", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T09:35:59Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:54:06Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. Pr\u00e9vue courant d\u00e9cembre", 
+            "done_ratio": 10, 
+            "id": 10882, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Dole", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T16:26:28Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 48, 
+                "name": "Avis"
+            }, 
+            "closed_on": "2013-07-08T16:41:34Z", 
+            "created_on": "2013-04-25T14:56:45Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": "29"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Meylan"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "http://web.afi-sa.net/meylan-bibliotheque.fr/rss/moderations ne fonctionne que si je suis identifi\u00e9 sur le portail...\r\n\r\nLe but est de le r\u00e9cup\u00e9rer sur Nanook.\r\n\r\nAujourd'hui r\u00e9gression depuis x versions, \u00e7a ne marche plus !!!", 
+            "done_ratio": 10, 
+            "id": 8998, 
+            "priority": {
+                "id": 6, 
+                "name": "Urgent"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-04-25", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "subject": "Flux RSS de mod\u00e9ration HS", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T13:49:28Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "category": {
+                "id": 1, 
+                "name": "notion de page"
+            }, 
+            "created_on": "2013-01-03T15:07:50Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": "02"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Astrolabe"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Exemple : associer http://www.astrolabe-melun.fr/patrimoine \u00e0 http://www.astrolabe-melun.fr/astrolabe-melun.fr/opac?id_profil=83\r\n\r\n\r\nCr\u00e9er un dossier patrimoine dans le HTDOCS avec un index.php qui va renvoyer vers le r\u00e9pertoire correpondant au nom de domaine avec en argument le profil souhait\u00e9. Si alias inconnu, on reroute vers http://www.astrolabe-melun.fr\r\n\r\n(attention ce dossier sera le m\u00eame pour tous les sites ayant des profils avec un alias patrimoine)", 
+            "done_ratio": 10, 
+            "id": 7832, 
+            "priority": {
+                "id": 6, 
+                "name": "Urgent"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-01-03", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": null, 
+            "subject": "URL rewriting pour les profils", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T14:13:06Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "category": {
+                "id": 1, 
+                "name": "notion de page"
+            }, 
+            "created_on": "2013-01-03T15:00:57Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": "29"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Exemple associer \r\nwww.mediatheque-ligny.fr et www.mediatheque-ligny.net \u00e0 http://web.afi-sa.net/meuse.fr/?id_profil=297\r\n\r\nDans l'admin associer un profil \u00e0 un domaine:\r\nCr\u00e9er \u00e0 la racine de HTDOCS un lien symbolique vers le site principal exemple \"meuse.fr\"\r\n\r\nl'index.php qui analyse le domaine de provenance, si un profil est associ\u00e9, prend le comportement du profil\r\n\r\n*ATTENTION: L'affichage des plans googlemap n\u00e9c\u00e9ssite une cl\u00e9 qui est d\u00e9pendante du domaine de l'url, il faut donc pouvoir associer une cl\u00e9 google \u00e0 chaque domaine*", 
+            "done_ratio": 10, 
+            "fixed_version": {
+                "id": 375, 
+                "name": "A planifier"
+            }, 
+            "id": 7830, 
+            "priority": {
+                "id": 6, 
+                "name": "Urgent"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-01-03", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": null, 
+            "subject": "Associer un profil \u00e0 un ou plusieurs domaines (URL)", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T09:33:59Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "category": {
+                "id": 1, 
+                "name": "notion de page"
+            }, 
+            "created_on": "2013-01-03T14:46:04Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Urgente"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": "28"
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Profil par sous domaine : dans l'admin opac, ajouter la possibilit\u00e9 d'associer un nom de sous domaine \u00e0 une page/profil. exemple archives.astrolabe-melun.fr qui pointe directement sur http://www.astrolabe-melun.fr/astrolabe-melun.fr/admin/profil/accueil/id_profil/6\r\nDans l'index.php, d\u00e9tecter qu'on vient d'un sous domaine, et dans ce cas rerouter sur le profil associ\u00e9, si le sous domaine non trouv\u00e9, aller vers le sous domaine par d\u00e9faut.", 
+            "done_ratio": 10, 
+            "fixed_version": {
+                "id": 375, 
+                "name": "A planifier"
+            }, 
+            "id": 7829, 
+            "priority": {
+                "id": 6, 
+                "name": "Urgent"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-01-03", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "story_points": null, 
+            "subject": "Associer un sous domaine \u00e0 un profil depuis l'admin", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-24T09:33:59Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 10, 
+                "name": "Interface SIGB"
+            }, 
+            "created_on": "2011-06-30T13:44:08Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": "29"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": "Pontault"
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "Si une carte a plusieurs membres, le responsable de la carte qui se connecte sur le portail doit se connecter successivement avec l'ann\u00e9e de naissance de de chaque membre pour consulter les pr\u00eats de la carte. il serait plus pratique qu'il puisse tout consulter en une fois.", 
+            "done_ratio": 10, 
+            "id": 1838, 
+            "priority": {
+                "id": 5, 
+                "name": "Haut"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2011-06-30", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "subject": "Pontault : affichage des pr\u00eats pour les carte multi-membres", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T13:49:25Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 48, 
+                "name": "pboit"
+            }, 
+            "category": {
+                "id": 29, 
+                "name": "Accessibilit\u00e9"
+            }, 
+            "created_on": "2011-01-04T14:49:45Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Basse"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase"
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem"
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation"
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "R\u00e9\u00e9crire automatiquement les URL des notices et des contenus de mani\u00e8re significative pour en faciliter le moissonnage par le moteurs de recherche. Demande fr\u00e9quente dans les dossiers \"Portail\" qui sortent en ce moment.", 
+            "done_ratio": 10, 
+            "id": 298, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2011-01-04", 
+            "status": {
+                "id": 14, 
+                "name": "A planifier"
+            }, 
+            "subject": "R\u00e9\u00e9criture automatique d'URL", 
+            "tracker": {
+                "id": 1, 
+                "name": "Anomalie"
+            }, 
+            "updated_on": "2014-03-24T14:01:41Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T08:40:06Z", 
+            "description": "", 
+            "done_ratio": 30, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12804, 
+            "parent": {
+                "id": 12803
+            }, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-02-07", 
+            "status": {
+                "id": 15, 
+                "name": "Planifi\u00e9"
+            }, 
+            "subject": "contacter et lui pr\u00e9senter avec une page d'accueil", 
+            "tracker": {
+                "id": 16, 
+                "name": "T\u00e2che Bokeh"
+            }, 
+            "updated_on": "2014-03-31T09:39:35Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-31T13:28:08Z", 
+            "done_ratio": 30, 
+            "fixed_version": {
+                "id": 554, 
+                "name": "sprint 1"
+            }, 
+            "id": 12821, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-31", 
+            "status": {
+                "id": 7, 
+                "name": "En d\u00e9veloppement"
+            }, 
+            "subject": "Bande passante (mail Laurent \u00e0 Michel et Luc au 31/3/14)", 
+            "tracker": {
+                "id": 16, 
+                "name": "T\u00e2che Bokeh"
+            }, 
+            "updated_on": "2014-03-31T13:28:12Z"
+        }, 
+        {
+            "author": {
+                "id": 260, 
+                "name": "chernandez"
+            }, 
+            "created_on": "2014-03-28T13:26:49Z", 
+            "description": "", 
+            "done_ratio": 30, 
+            "estimated_hours": 4.0, 
+            "id": 12790, 
+            "parent": {
+                "id": 12789
+            }, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-28", 
+            "status": {
+                "id": 7, 
+                "name": "En d\u00e9veloppement"
+            }, 
+            "subject": "tache bokeh test", 
+            "tracker": {
+                "id": 16, 
+                "name": "T\u00e2che Bokeh"
+            }, 
+            "updated_on": "2014-03-31T09:07:22Z"
+        }, 
+        {
+            "author": {
+                "id": 9, 
+                "name": "alelache"
+            }, 
+            "created_on": "2014-01-27T10:30:12Z", 
+            "custom_fields": [
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": "2014-02"
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 16, 
+                    "name": "Jours", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }
+            ], 
+            "description": "", 
+            "done_ratio": 30, 
+            "id": 11947, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-01-27", 
+            "status": {
+                "id": 7, 
+                "name": "En d\u00e9veloppement"
+            }, 
+            "subject": "Calice68 : Integration webservice Karvi.", 
+            "tracker": {
+                "id": 3, 
+                "name": "Suivi de projet"
+            }, 
+            "updated_on": "2014-03-24T13:59:12Z"
+        }, 
+        {
+            "author": {
+                "id": 26, 
+                "name": "llaffont"
+            }, 
+            "created_on": "2014-03-25T08:31:34Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "KBART  \u00e0 int\u00e9grer http://www.numeriquepremium.com/openurl/kbart/books .\r\n\r\nT\u00e2ches:\r\n- cr\u00e9er le moissonnage du fichier CSV en albums, type de doc numerique premium. L'url du fichier doit \u00eatre en variable dans l'OPAC (si renseign\u00e9, numerique premium activ\u00e9)\r\n- par d\u00e9faut le type de doc num\u00e9rique premium doit \u00eatre dans la famille livre pour r\u00e9cup\u00e9rer les vignettes du serveur de cache\r\n- cr\u00e9er le batch pour l'import via Cosmogramme\r\n- impl\u00e9menter le bloc \"ressources num\u00e9riques\" qui doit contenir le lien vers la notice numerique premium (contenu dans le fichier KBART). Note: pas de SSO, par contre n'afficher le lien que si l'utilisateur est connect\u00e9. Grosso modo, faire comme vodeclic mais sans cryptage", 
+            "done_ratio": 80, 
+            "fixed_version": {
+                "id": 553, 
+                "name": "6.40"
+            }, 
+            "id": 12688, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2014-03-25", 
+            "status": {
+                "id": 3, 
+                "name": "R\u00e9alis\u00e9 (\u00e0 tester)"
+            }, 
+            "story_points": null, 
+            "subject": "Int\u00e9gration num\u00e9rique premium", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-28T08:57:47Z"
+        }, 
+        {
+            "assigned_to": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "author": {
+                "id": 22, 
+                "name": "jcgachod"
+            }, 
+            "category": {
+                "id": 13, 
+                "name": "Charte Graphique"
+            }, 
+            "created_on": "2013-10-22T14:44:10Z", 
+            "custom_fields": [
+                {
+                    "id": 5, 
+                    "name": "Priorit\u00e9 client", 
+                    "value": "Normale"
+                }, 
+                {
+                    "id": 11, 
+                    "name": "Phase", 
+                    "value": ""
+                }, 
+                {
+                    "id": 13, 
+                    "name": "Mois", 
+                    "value": ""
+                }, 
+                {
+                    "id": 8, 
+                    "name": "Sem", 
+                    "value": ""
+                }, 
+                {
+                    "id": 6, 
+                    "name": "Budget", 
+                    "value": ""
+                }, 
+                {
+                    "id": 1, 
+                    "name": "Client", 
+                    "value": ""
+                }, 
+                {
+                    "id": 15, 
+                    "name": "Date limite de r\u00e9alisation", 
+                    "value": ""
+                }, 
+                {
+                    "id": 44, 
+                    "name": "Iceberg"
+                }
+            ], 
+            "description": "En attente d'\u00e9lements. Le projet Portail d\u00e9butte semaine prochaine. JCG expliquera au client les \u00e9l\u00e9ments attendus + Plannification", 
+            "done_ratio": 80, 
+            "id": 10874, 
+            "priority": {
+                "id": 4, 
+                "name": "Normal"
+            }, 
+            "project": {
+                "id": 56, 
+                "name": "AFI-OPAC 2.0 V3"
+            }, 
+            "start_date": "2013-10-22", 
+            "status": {
+                "id": 3, 
+                "name": "R\u00e9alis\u00e9 (\u00e0 tester)"
+            }, 
+            "story_points": null, 
+            "subject": "Charte graphique Alboussi\u00e8re", 
+            "tracker": {
+                "id": 2, 
+                "name": "D\u00e9veloppement"
+            }, 
+            "updated_on": "2014-03-25T10:31:05Z"
+        }
+    ], 
+    "limit": 100, 
+    "offset": 0, 
+    "total_count": 58
+}
