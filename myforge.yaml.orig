@@ -1,3 +1,6 @@
 base_url: 'http://forge.example.com'
+key: '<api key>'
+
+# No need with Redmine::API
 user: 'aaa'
 pass: 'bbb'
