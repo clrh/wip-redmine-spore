@@ -51,8 +51,6 @@ sub count_by_status {
     7  => $endev,
     3  => $atest,
   );
-
-  %count_issues_by_status;
 }
 
 my $filename = './t/fixtures/issues.mock.json';
