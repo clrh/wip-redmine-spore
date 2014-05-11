@@ -1,17 +1,9 @@
-# Before `make install' is performed this script should be runnable with
-# `make test'. After `make install' it should work as `perl Forge.t'
-
-#########################
-
-# change 'tests => 1' to 'tests => last_test_to_print';
-
 use strict;
 use warnings;
 
 use Test::More;
 use JSON;
 use Data::Dump qw/dump/;
-use Data::Dumper qw/Dumper/;
 use lib "lib";
 
 BEGIN { use_ok('Forge') };
