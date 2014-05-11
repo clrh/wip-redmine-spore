@@ -37,22 +37,22 @@ sub count_by_status {
     {id=>7, name=>"En développement"},
     {id=>3, name=>"Réalisé à tester"}
   );
-  my @aqual;my @aplan; my @endev; my @atest;
+  my $aqual;my $aplan; my $endev; my $atest;
   foreach my $issue ( @{$issues->{issues}} ) {
 	  my $status_id = $issue->{status}->{id};
-          push @aqual, $issue->{id} if ($status_id eq 1);
-          push @aplan, $issue->{id} if ($status_id eq 14);
-          push @endev, $issue->{id} if ($status_id eq 7);
-          push @atest, $issue->{id} if ($status_id eq 3);
+          $aqual += 1 if ($status_id eq 1);
+          $aplan += 1 if ($status_id eq 14);
+          $endev += 1 if ($status_id eq 7);
+          $atest += 1 if ($status_id eq 3);
   }
-  my %issues_by_status = (
-    1  => [ @aqual ],
-    14 => [ @aplan ],
-    7  => [ @endev ],
-    3  => [ @atest ],
+  my %count_issues_by_status = (
+    1  => $aqual,
+    14 => $aplan,
+    7  => $endev,
+    3  => $atest,
   );
 
-  %issues_by_status;
+  %count_issues_by_status;
 }
 
 my $filename = './t/fixtures/issues.mock.json';
@@ -63,7 +63,6 @@ my $filename = './t/fixtures/issues-full.mock.json';
 my $issues = read_file_and_decode $filename;
 is (count_issues($issues),58,'number of issues');
 my %sorted_issues = count_by_status($issues);
-my @dev = $sorted_issues{7};
-is (scalar(@dev)+1,3,'number of -en dev- issues');
+is ($sorted_issues{7},3,'number of -en dev- issues');
 
 done_testing;
