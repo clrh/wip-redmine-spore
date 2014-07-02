@@ -4,3 +4,5 @@ key: '<api key>'
 # No need with Redmine::API
 user: 'aaa'
 pass: 'bbb'
+
+numlist: xxx.csv

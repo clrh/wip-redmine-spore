@@ -27,6 +27,19 @@ while ( my $line = <FD> ) {
     print "rf:$redmine_number ; estim:$estim\n";
 }
 
-say "estim_value:" . $client->issues->issue->get(14534)->{'issue'}->{'estimated_hours'};
-#$client->issues->issue->get(14534)->{'issue'}->{'estimated_hours'};
+#my $rf = 14534; #prod
+my $rf = 12789; #sbox
 
+#say "AVT estim_value:" . $client->issues->issue->get($rf)->{'issue'}->{'estimated_hours'};
+#$client->issues->issue->update($rf, estimated_hours => 8);
+#say "APRES estim_value:" . $client->issues->issue->get($rf)->{'issue'}->{'estimated_hours'};
+
+#say dump $client->issues->issue->get($rf);
+#say "AVT:" . $client->issues->issue->get($rf)->{'issue'}->{'subject'};
+#$client->issues->issue->update($rf, subject => "coucou tu changes!");
+#say "APRES:" . $client->issues->issue->get($rf)->{'issue'}->{'subject'};
+
+say dump $client->issues->issue->get($rf);
+say "AVT:" . $client->issues->issue->get($rf)->{'issue'}->{'story_points'};
+$client->issues->issue->update($rf, story_points => 20);
+say "APRES:" . $client->issues->issue->get($rf)->{'issue'}->{'story_points'};
